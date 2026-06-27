@@ -41,6 +41,18 @@ Institución Educativa Santa Fe
 
 - Supported students in solving academic and technical challenges, strengthening their autonomy, confidence and problem-solving skills.
 
+**Intern**
+: **Endava| Cali**
+: **2026 February - 2026 July**
+
+- Contributing to an internal analytics MVP that automates data ingestion, validation, calculation and visualization of safety indicators previously managed through fragmented Excel workflows.
+
+- Worked on requirements analysis, data-flow modeling and backlog definition for the application modules.
+
+- Supported a practical architecture using Python, .NET 8 Web API, React + TypeScript, PostgreSQL, Docker and automated testing to improve traceability, maintainability and reporting reliability.
+
+- Helped define role-aware dashboards, auditability requirements, evidence handling, calculation versioning and responsible AI usage practices for a scalable internal solution.
+
 ## LANGUAGES
 
 **Spanish**
